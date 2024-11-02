@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+.box1{
+    text-align: center;
+    padding-top: 30px;
+    background-color: black;
+}
+ul{
+    color: white;
+}
+h1{
+    color: brown;
+    background-color:  rgb(255, 251, 248);
+}
+.box2{
+    text-align: center;
+    background-color:  rgb(255, 251, 248);
+}
+h2{
+    background-color:  rgba(245, 243, 243, 0.9);;
+    color: brown;
+    padding: 10px;
+    margin: 0px;
+}
+.box3{
+    text-align: center;
+    background-color: rgb(255, 251, 248);
+}
+.box4{
+    text-align: center;
+    background-color: rgb(255, 251, 248);
+}
+.box5{
+    text-align: center;
+    background-color:  rgba(245, 243, 243, 0.9);;
+    padding-top: 10px;
+}
+.box6{
+    background-color: rgb(255, 251, 248);
+}
+a{
+    color: white;
+}
+h3{
+    color: black;
+}
+p{
+    color: black;
+}    
